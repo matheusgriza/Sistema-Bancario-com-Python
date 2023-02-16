@@ -10,7 +10,6 @@ menu = """
 => """
 
 saldo=0
-limite = 500
 extrato=[]
 limites_saques=3
 while True:
